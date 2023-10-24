@@ -1,0 +1,4 @@
+﻿  ak.cpp
+C:\LABAS\AK\ak\ak\ak.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\LABAS\AK\ak\ak\ak.cpp(52,41): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  ak.vcxproj -> C:\LABAS\AK\ak\x64\Debug\ak.exe
